@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas Yamamoto
 - 👀 I’m interested in back end programming, and virtual reality
-- 🌱 I’m currently learning Database design and Computer Architecture 
+- 🌱 I’m currently learning Operating Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email- yamamotn19@gmail.com, phone: 3105050175
 
